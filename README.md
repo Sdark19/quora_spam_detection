@@ -26,11 +26,11 @@ Download glove.6B.300d.txt from Stanford NLP website
 
 ## Model Architecture
 
-Bidirectional LSTM with GloVe embeddings (300d)
-Multiple LSTM layers with dropout (0.5)
-Dense layers for classification
-Global Average Pooling
-Adam optimizer with learning rate scheduling
+- Bidirectional LSTM with GloVe embeddings (300d)
+- Multiple LSTM layers with dropout (0.5)
+- Dense layers for classification
+- Global Average Pooling
+- Adam optimizer with learning rate scheduling
 
 ## Dataset
 
