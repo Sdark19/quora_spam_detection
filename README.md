@@ -34,6 +34,12 @@ Adam optimizer with learning rate scheduling
 
 ## Dataset
 
+This repository includes:
+- `train.csv`: Training dataset containing Quora questions with following columns:
+  - qid: Unique question identifier
+  - question_text: The actual question text
+  - target: Binary label (0 for non-spam, 1 for spam)
+
 - Initial class distribution:
 
 	- Non-spam (0): 1,225,312
