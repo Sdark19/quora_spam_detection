@@ -61,16 +61,16 @@ Classification Report (with threshold = 0.9):
 
 ## Training Results
 
-*Best F1 Score: 0.989
-*Final Validation Accuracy: 98.83%
-*Final Validation AUC: 0.991
+- Best F1 Score: 0.989
+- Final Validation Accuracy: 98.83%
+- Final Validation AUC: 0.991
 
 ## Hyperparameters
 
-*Maximum words: 30,000
-*Maximum sequence length: 100
-*Embedding dimension: 300
-*LSTM units: 128
-*Dense units: 64
-*Dropout rate: 0.5
-*Learning rate: 0.001 (with reduction on plateau)
+- Maximum words: 30,000
+- Maximum sequence length: 100
+- Embedding dimension: 300
+- LSTM units: 128
+- Dense units: 64
+- Dropout rate: 0.5
+- Learning rate: 0.001 (with reduction on plateau)
